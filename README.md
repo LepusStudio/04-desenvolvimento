@@ -94,11 +94,8 @@ Esta seção reúne os conceitos visuais dos ambientes do jogo.
 
 ### Cenários planejados
 
-* Quarto do personagem.
-* Guarda-roupa (customização).
 * Corredor da escola.
 * Sala de Física.
-* Sala de Artes.
 * Laboratório de Informática.
 
 Cada cenário terá:

@@ -84,7 +84,6 @@ Cada personagem terá um espaço contendo:
 | ------------------ | --------------------------- | -------------- |
 | Jogador            | Personagem principal.       | ⬜ Planejamento |
 | Professora Jessyca | Fase de Física.             | ⬜ Planejamento |
-| Professor Gladson  | Fase de Artes.              | ⬜ Planejamento |
 | Professor Roger    | Laboratório de Informática. | ⬜ Planejamento |
 
 ---

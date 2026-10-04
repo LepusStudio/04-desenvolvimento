@@ -69,8 +69,6 @@ A identidade visual reúne elementos que representam o conceito da empresa.
 
 A paleta oficial da Lepus Studio será registrada abaixo.
 
-> **Espaço reservado para adicionar os códigos das cores oficiais da identidade visual.**
-
 | Código da cor | Cor              |
 | ------------- | ---------------- |
 | #AB8345       | Dourado queimado |
